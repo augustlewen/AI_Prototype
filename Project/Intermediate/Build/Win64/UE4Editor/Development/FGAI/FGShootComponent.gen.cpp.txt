@@ -1,0 +1,7 @@
+E:\Program Files (x86)\Perforce\WorkspaceRoot\August.Lewen_Prototyping_Unreal_Engine_4_Team_28\FG20FT_AI_Team28\Project\Intermediate\Build\Win64\UE4Editor\Development\FGAI\Definitions.FGAI.h
+G:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+G:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Program Files (x86)\Perforce\WorkspaceRoot\August.Lewen_Prototyping_Unreal_Engine_4_Team_28\FG20FT_AI_Team28\Project\Source\FGAI/Components/FGShootComponent.h
+E:\Program Files (x86)\Perforce\WorkspaceRoot\August.Lewen_Prototyping_Unreal_Engine_4_Team_28\FG20FT_AI_Team28\Project\Source\FGAI/FGProjectile.h
+E:\Program Files (x86)\Perforce\WorkspaceRoot\August.Lewen_Prototyping_Unreal_Engine_4_Team_28\FG20FT_AI_Team28\Project\Intermediate\Build\Win64\UE4Editor\Inc\FGAI\FGProjectile.generated.h
+E:\Program Files (x86)\Perforce\WorkspaceRoot\August.Lewen_Prototyping_Unreal_Engine_4_Team_28\FG20FT_AI_Team28\Project\Intermediate\Build\Win64\UE4Editor\Inc\FGAI\FGShootComponent.generated.h

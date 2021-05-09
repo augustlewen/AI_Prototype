@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FGAI",
+			"Path": "E:\\Program Files (x86)\\Perforce\\WorkspaceRoot\\August.Lewen_Prototyping_Unreal_Engine_4_Team_28\\FG20FT_AI_Team28\\Project\\Source\\FGAI.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FGAIEditor",
+			"Path": "E:\\Program Files (x86)\\Perforce\\WorkspaceRoot\\August.Lewen_Prototyping_Unreal_Engine_4_Team_28\\FG20FT_AI_Team28\\Project\\Source\\FGAIEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
